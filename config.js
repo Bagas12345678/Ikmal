@@ -1,11 +1,11 @@
 //=============『 Utama 』================== //
-global.owner = ['6285892778812'] 
-global.mods = ['6285892778812'] 
-global.prems = ['6285892778812'] 
+global.owner = ['62881010244718'] 
+global.mods = ['62881010244718'] 
+global.prems = ['62881010244718'] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'Bagas'
-global.numberowner = '6285892778812'
+global.numberowner = '62881010244718'
 global.instagram = 'https://instagram.com/dinsa6005'
 global.github = 'https://github.com/IkmalMtp2'
 global.dana = '082127081926'
