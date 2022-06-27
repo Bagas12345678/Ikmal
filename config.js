@@ -1,19 +1,19 @@
 //=============『 Utama 』================== //
-global.owner = ['6282127081926'] 
-global.mods = ['6282127081926'] 
-global.prems = ['6282127081926'] 
+global.owner = ['6285892778812'] 
+global.mods = ['6285892778812'] 
+global.prems = ['6285892778812'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Ikmal'
-global.numberowner = '6282127081926'
+global.nameowner = 'Bagas'
+global.numberowner = '6285892778812'
 global.instagram = 'https://instagram.com/dinsa6005'
 global.github = 'https://github.com/IkmalMtp2'
 global.dana = '082127081926'
-global.pulsa = '082127081926'
-global.gopay = '082127081926'
+global.pulsa = '085892778812'
+global.gopay = '085892778812'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'IkmalBOT'
+global.namebot = 'BagasBOT'
 global.gc = 'https://chat.whatsapp.com/ILzsPmlSaGrHAKfMaCexlw'
 global.web = 'https://www.IkmalWibesite.com/cpl' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
@@ -25,8 +25,8 @@ global.lolkey = 'IkmalMtp2' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'IkmalMtp2' //ganti jadi apikey lu kalau expired
 global.wm = 'IkmalBOT'
 global.watermark = wm
-global.wm2 = '                     「 IkmalBOT あ⁩ 」'
-global.wm3 = '⫹⫺ IkmalBOT'
+global.wm2 = '                     「 BagasBOT あ⁩ 」'
+global.wm3 = '⫹⫺ BagasBOT'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
