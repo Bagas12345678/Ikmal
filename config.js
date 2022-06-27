@@ -8,9 +8,9 @@ global.nameowner = 'Bagas'
 global.numberowner = '62881010244718'
 global.instagram = 'https://instagram.com/dinsa6005'
 global.github = 'https://github.com/IkmalMtp2'
-global.dana = '082127081926'
-global.pulsa = '085892778812'
-global.gopay = '085892778812'
+global.dana = '0881010244718'
+global.pulsa = '0881010244718'
+global.gopay = '0881010244718'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'BagasBOT'
